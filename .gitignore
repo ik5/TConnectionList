@@ -1,0 +1,11 @@
+*.*~
+*.bak
+units/*.*~
+units/*.bak
+tests/*.*~
+tests/*.bak
+examples/*.*~
+examples/*.bak
+tests/lib/*
+src/output/*
+
